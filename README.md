@@ -35,8 +35,6 @@ For each item that has multiple ingredients, create a sub list of a few (2-5) of
   * Milk
   * Seasoning
 
-
-
 ### Headings
 
 Headings and sub-headings help separate the content of a document.
@@ -62,16 +60,29 @@ This class is about IoT.  [Postscapes](https://www.postscapes.com/internet-of-th
 
 ***Q5.  Based on your reviews, create a table of the top four distinguishing features of IoT applications. One column of the table should have a brief name for the feature (1-4 words) and the second column should have an explanation:***
 
-Search for some additional IoT examples at other sites and find two examples that you find interesting.
-
 ### Features of IoT
 Name | Explanation
 -----|------------
+Remote Control | IoT allows for the control of devices over bluetooth or wifi. This can be lights in your house, appliances, security devices, etc.
+Logistics | IoT devices with GPS can be used to track the movement of products, vehicles and people.
+Preventative Maintenance | Smart devices can monitor equipment operation and can alert maintainers of possible issues before a piece of equipment is forced out of service.
+Biometrics | Wearable sensors allow healthcare professionals to monitor their patients remotely and can inform patients and their doctors of abnormal organ activity due to medical conditions without the patient having to be monitored in a hospital setting.
 
-
-
+Search for some additional IoT examples at other sites and find two examples that you find interesting.
 
 ***Q6.  For each example: 1) provide a link to it, 2) provide a brief summary of it, and 3) explain how it corresponds to distinguishing features you identified above and/or or how you may want to revise your list of distinguishing features.  Use lists/sublists to format your answer to this question (A numbered list of 2 items, each of which as 3 sub-items):***
+
+1. [Nest Thermostat](https://nest.com/)
+  * The nest thermostat is replaces a conventional thermostat and can
+    * Be controlled remotely
+    * Adhere to a schedule for heating and cooling
+    * Adjust temperature when a room is unoccupied
+  * This is an example of being able to control a device **remotely**
+  * Being able to control and schedule the thermostat as well as auto-away detection (with the use of motion sensors) leads to a decrease in energy consumption - **I should have added to my list above, energy consumption monitoring**
+2. [KONE Smart Elevators](https://www.ibm.com/blogs/internet-of-things/kone/)
+  * KONE uses a combination of sensors and IBM's Watson AI to monitor elevator operation and predict possible maintenance issues before a service outage could occur.
+  * This ties into my section above on **preventative maintenance**  
+  * This new platform also allows for **logistics** tracking in which data on elevator usage can be collected and can be used to improve the wait times and experience for the users
 
 ## Part 3: Comparing with Peers
 
@@ -79,4 +90,8 @@ Compare your previous work with other people in the class and try to come to a c
 
 ***Q7. Meet someone new.  Find a class member who you don't already know and introduce yourself.  Compare your work conclusions to the above IoT questions. Again, using a list indicate: 1) Who you worked with, and 2) Any discrepancies or interesting observations that arise from comparing your work:***
 
+Did not get to in class
+
 ***Q8. Meet someone else new.  Find another class member who you don't already know and introduce your self.  Again compare your work as before:***
+
+Did not get to in class
